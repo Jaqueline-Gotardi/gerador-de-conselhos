@@ -6,6 +6,8 @@ Este projeto é um **gerador de conselhos** que consome uma API externa e atuali
 
 O que eu mais amei nesse exercício foi poder **resolver tudo sozinha**, explorando JavaScript assíncrono, consumo de API e animações simples no DOM. Um ótimo treino de lógica e interatividade! 🚀
 
+![preview](src/images/tela-responsive.png)
+
 ---
 
 ## ✨ Funcionalidades

@@ -32,7 +32,7 @@ O que eu mais amei nesse exercício foi poder **resolver tudo sozinha**, explora
 ```bash
 git clone https://github.com/seu-usuario/advice-generator-app.git
 Abra o arquivo index.html no navegador
-
+```
 Clique no botão 🎲 para gerar novos conselhos
 
 ---

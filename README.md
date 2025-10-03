@@ -31,18 +31,18 @@ O que eu mais amei nesse exercício foi poder **resolver tudo sozinha**, explora
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/seu-usuario/advice-generator-app.git
-Abra o arquivo index.html no navegador
 ```
-Clique no botão 🎲 para gerar novos conselhos
+2. Abra o arquivo index.html no navegador;
+3. Clique no botão 🎲 para gerar novos conselhos;
 
 ---
 
-##💡 Observações:
+## 💡 Observações:
 Exercício super prático para Front-end, perfeito para treinar manipulação do DOM, consumo de APIs e interatividade com o usuário.
 
 Projeto com layout moderno, responsivo e divertido...
 
-Feito com 💙 por Jaqueline Gotardi
-
+---
+**Feito com 💙 por Jaqueline Gotardi**
 
 #DevQuest #FrontEnd #JavaScript #ProjetosDeVida #AprendizadoConstante #MinhaJornada.
